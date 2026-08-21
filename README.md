@@ -22,6 +22,7 @@
 ---
 
 ## 🇬🇧 English
+<img width="742" height="768" alt="en" src="https://github.com/user-attachments/assets/9ab28916-ef5c-4fd9-a3cf-99bd85679414" />
 
 A modern, animated **PyQt6** desktop application that recovers a **forgotten PDF password** using a wordlist (dictionary attack). It runs the attempts across **multiple CPU cores in parallel** so it is fast without freezing or maxing out your machine.
 
@@ -72,6 +73,7 @@ python pdf_breaker_gui.py
 ---
 
 ## 🇹🇷 Türkçe
+<img width="742" height="768" alt="tr" src="https://github.com/user-attachments/assets/b71ecb61-c5f2-4193-8ab0-6325feefe327" />
 
 Unutulmuş bir **PDF parolasını**, bir kelime listesi (sözlük saldırısı) kullanarak kurtaran modern ve animasyonlu bir **PyQt6** masaüstü uygulamasıdır. Denemeleri **birden fazla CPU çekirdeğinde paralel** çalıştırır; böylece makineyi kilitlemeden ve boğmadan hızlıdır.
 
@@ -118,18 +120,6 @@ python pdf_breaker_gui.py
 - pypdf'e göre büyük hız artışı için **pikepdf** kur.
 - Çok büyük sözlüklerde çekirdek kaydırıcısını yukarı çek; arka planda kullanırken düşük tut.
 - Multiprocessing'in kazancı, binlerce+ kelimelik listelerde en yüksektir.
-
----
-
-## 👨‍💻 Developer / Geliştirici
-
-**By espin0**
-
-- 📧 Gmail: `kayhankafali@gmail.com`
-- 🐙 GitHub: [github.com/espincom](https://github.com/espincom)
-
-Uygulama içindeki **Geliştirici / Developer** sekmesinden de iletişime geçebilirsiniz. /
-You can also reach out from the **Developer** tab inside the app.
 
 ---
 
